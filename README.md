@@ -33,7 +33,7 @@ Thirdly, the server called `SongServer` is executed like this:
 ```
 ./server
 ```
-Lastly, the `Client named as follows` is executed:
+Lastly, the `Client` named as follows is executed:
 ```
 ./client localhost
 ```
